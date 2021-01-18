@@ -3,7 +3,7 @@ Data: 03/12/20
 Lloc: Reunió virtual a través de l'aplicació del CSIC basada en Big Blue Button
 
 # Tema de la reunió
-En motiu de l'acció número 4 (Valoració de les Dades Marítimes), s'ha fet una pluja d'idees per veure quins possible productes són d'interès per als membres de la Xarxa.
+En motiu de l'[acció número 4 (Valoració de les Dades Marítimes)](https://github.com/BlueNetCatAccio4/convocatoria), s'ha fet una pluja d'idees per veure quins possible productes són d'interès per als membres de la Xarxa.
 
 # Participants
 Gerard Llorach, Emilio García, Pablo Bou, Xavier García, Montserrat Saperas, Anna Garriga, Anna Sànchez, Ingrid Masaló, Joaquín del Rio, Justino Martínez, Nerea Roher, Rafa Bartolomé, Narcís Pous, Enoc Martínez.
@@ -46,4 +46,4 @@ Donat que a la Xarxa hi ha molts membres i que tots estaven convidats, la partic
 - Dades de la qualitat (metall pesats) de les macroalgues al llarg del litoral.
 
 ## Pissarra multiusuari
-![Pissarra](pissarra.png)
+![Pissarra](img/pissarra.png)
