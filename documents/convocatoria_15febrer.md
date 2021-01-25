@@ -7,7 +7,7 @@ La convocatòria està orientada a accions per guanyar visibilitat com a grup, d
 
 ## Com es presenta un projecte?
 
-Simplement omplint aquest formulari: https://forms.gle/p1H4rDhp52KoLN2bA. Per guiarte pots fer servir aquests dos exemples: [proposta visualitzador](), [proposta dades]().
+Simplement omplint aquest formulari: https://forms.gle/p1H4rDhp52KoLN2bA. Per guiarte pots fer servir aquests dos exemples: [proposta visualitzador](proposta_visualitzador.pdf), [proposta dades](proposta_dades.pdf).
 
 ## Qui pot accedir a la convocatòria?
 Qualsevol grup/membre associat a la xarxa.
