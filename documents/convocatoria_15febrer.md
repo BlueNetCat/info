@@ -50,6 +50,7 @@ Aquesta iniciativa no concedeix una subvenció sinó la dedicació temporal de p
 
 ## Quines accions s'estan desenvolupant actualment?
 Podeu consultar les aplicacions web que s'estan duent a terme en aquest repositori: https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io
+
 Actuacions fonamentals dins de l'actuació 4:
 - Geoportal: mostrar on hi ha dades, i quin tipus de dades. Mars, estuarius, rius… Amb enllaços/punters a on trobar les dades.
 - Base de dades, recollint i replicant altres dades.
