@@ -49,7 +49,7 @@ Aquest exemples no estan inclosos a la convocatòria i s'haurien de presentar fo
 Aquesta iniciativa no concedeix una subvenció sinó la dedicació temporal de personal especialitzat per obtenir productes basats en dades. En cas de que el grup de recerca interssat no pugui donar suport al personal de la Xarxa, els productes es desenvoluparan fent servir les infraestructures tècniques que ofereix el CSIC-ICM en la fase de desenvolupament però podran ser instal·lades un cop acabades en infraestructures dels grups interessats.
 
 ## Quines accions s'estan desenvolupant actualment?
-Podeu consultar les aplicacions web que s'estan duent a terme en aquest repositori: https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io
+Podeu consultar les aplicacions web obertes que s'estan duent a terme en aquest repositori: https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io
 
 Actuacions fonamentals dins de l'actuació 4:
 - Geoportal: mostrar on hi ha dades, i quin tipus de dades. Mars, estuarius, rius… Amb enllaços/punters a on trobar les dades.
