@@ -29,6 +29,8 @@ Els criteris que es tindran en compte seran:
 - Existència d'un responsable tècnic del grup que pugui contribuir al desenvolupament del producte. La xarxa no disposa de suficient personal per a desenvolupar tots els projectes i l'ajuda i col·laboració de personal addicional es valorarà molt positivament.
 - Recolzament del producte per part d'un projecte, contracte o conveni.
 
+Els projectes presentats s'ordenaran per ordre de prioritat i es publicaran en aquest repositori la setmana posterior al 15 de Febrer.
+
 ## Quins exemples/accions es van esmentar a la [pluja d'idees](plujadidees_report.md)?
 Aquest exemples no estan inclosos a la convocatòria i s'haurien de presentar formalment si hi hagués algun grup interessat.
 - App on poder georeferenciar dades de ciutadans i on poder introduir resultats per connectar amb la societat i grups d'interès.
