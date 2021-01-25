@@ -1,5 +1,6 @@
 ![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/funding.png)
 Data: 03/12/20
+
 Lloc: Reunió virtual a través de l'aplicació del CSIC basada en Big Blue Button
 
 # Tema de la reunió
