@@ -9,5 +9,8 @@ Es va fer una pluja d'idees per veure quin tipus de productes són interessants 
 ### Convocatòria
 Actualment s'està preparant un document on s'explica com accedir i participar a la convocatòria de l'acció 4. Els membres de la Xarxa enviaran les seves propostes, les quals seran evaluades i priotitzades segons uns barems especificats. El document temporal per la convocatòria es troba aquí:[link]
 
+### Resultats 15 de Febrer 2021
+Aquí podreu trobar un llistat de les propostes rebudes el 15 de Febrer. Les propostes s'ordenaran per prioritat seguint els varems establerts a la convocatòria.
+
 ## Projectes en desenvolupament
 Per veure els projectes en desenvolupament, accediu aquí: https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io
