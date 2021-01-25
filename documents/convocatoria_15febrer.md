@@ -20,7 +20,7 @@ Sota demanda, les propostes seran tractades de forma confidencial i si no es due
 
 ## Com es seleccionen els projectes?
 Els criteris que es tindran en compte seran:
-- Productes que tinguin un TRL i un SRL elevats.
+- Productes que tinguin un TRL (Technology Readiness Level) i un SRL (Societal Readiness Level) elevats.
 - Productes/idees com a resultat de sinergies i col·laboració de més d'un grup de recerca.
 - Productes basats fonamentalment en l'explotació de dades pròpies dels grups, no pas centrats en dades de tercers encara que en calguin.
 - Focus en productes a partir de dades geolocalitzades.
