@@ -1,5 +1,5 @@
 ![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/funding.png)
-# BlueNetCat - Acció 4 - Status
+# BlueNetCat - Acció 4
 En aquest repositori hi trobareu els passos que s'han fet i l'estat de l'acció 4. L’objectiu és generar productes potencialment transferibles i comercialitzables procedents de les dades marítimes dels membres de la Xarxa. Els sectors diana són: transport marítim, aqüicultura, pesqueries, serveis meteorològics, salvament marítim, gestió de platges i turime, entre d'altres.
 
 ## Procediment
