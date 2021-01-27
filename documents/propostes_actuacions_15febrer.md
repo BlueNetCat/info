@@ -1,4 +1,4 @@
-![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/funding.png)
+![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/logos.png)
 # Propostes d'actuacions en el marc de l'Eix de Dades de BlueNetCat
 
 S'obre un procés per presentar activitats en el marc de l'[Eix de valoració de les dades marítimes](https://github.com/BlueNetCatAccio4/info). La seva finalitat és ajudar als grups de recerca que vulguin capitalitzar les seves dades per tal d'augmentar la seva TRL o SRL. 
