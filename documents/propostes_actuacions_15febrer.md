@@ -13,7 +13,7 @@ Simplement omplint aquest formulari: https://forms.gle/p1H4rDhp52KoLN2bA. Per gu
 Qualsevol grup/membre associat a la xarxa.
 
 ## Quina data límit hi ha?
-En principi es podran enviar propostes fins al final del finançament de la xarxa. El <strong>15 de Febrer de 2021</strong> es farà una primera selecció de les propostes rebudes fins a aquesta data. A mesura que es vagin finalitzant els projectes seleccionats, noves propostes rebudes seran avaluades periòdicament.
+En principi es podran enviar propostes fins que acabi la xarxa. El <strong>15 de Febrer de 2021</strong> es farà una primera selecció de les propostes rebudes fins a aquesta data. A mesura que es vagin finalitzant els projectes seleccionats, noves propostes rebudes seran avaluades periòdicament.
 
 ## Quina confidencialitat s'establirà?
 Sota demanda, les propostes seran tractades de forma confidencial i si no es duen a terme la informació s'esborrarà.
