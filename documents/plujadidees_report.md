@@ -21,7 +21,7 @@ S'han separat els participants en grups de tres en sales virtuals. Els participa
 Els participants han compartit en el xat de la reunió les idees recollides. Mentrestant, s'ha habilitat una pissarra multiusuari amb un mapa de la conca catalana, on els participants han escrit totes les dades marítimes que es recullen.
 
 ## Propers passos (7 min)
-En aquesta última fase s'ha explicat com es procedirà en l'acció número 4. Es farà una convocatòria oberta als grups de la Xarxa perquè envïin propostes de productes per valoritzar les dades. D'aquestes propostes rebudes, es farà una selecció segons els barems indicats a la convocatòria (open data, TRL, SRL, impacte a la societat i a la Xarxa, etc).
+En aquesta última fase s'ha explicat com es procedirà en l'acció número 4. Es farà un formulari per als grups de la Xarxa perquè envïin propostes de productes per valoritzar les dades. D'aquestes propostes rebudes, es farà una selecció segons els barems indicats (open data, TRL, SRL, impacte a la societat i a la Xarxa, etc).
 
 # Conclusions
 S'ha pogut realitzar amb èxit una pluja d'idees telemàtica. S'han pogut recollir diverses idees que es podrien convertir en productes d'èxit. Els diferents participants han pogut veure i entendre algunes necessitats d'altres membres i quin tipus de dades consumeixen/produeixen. Creiem que sessions com aquestes són beneficials per a la Xarxa, ja que els investigadors es poden conèixer entre si, aprendre sobre altres sectors de la BlueNetCat i guanyar coneixements per fer millor recerca.
