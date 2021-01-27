@@ -1,7 +1,7 @@
 ![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/funding.png)
 # Propostes d'actuacions en el marc de l'Eix de Dades de BlueNetCat
 
-S'obre un procés per presentar activitats en el marc de l'[Eix de valoració de les dades marítimes](https://github.com/BlueNetCatAccio4/convocatoria). La seva finalitat és ajudar als grups de recerca que vulguin capitalitzar les seves dades per tal d'augmentar la seva TRL o SRL. 
+S'obre un procés per presentar activitats en el marc de l'[Eix de valoració de les dades marítimes](https://github.com/BlueNetCatAccio4/info). La seva finalitat és ajudar als grups de recerca que vulguin capitalitzar les seves dades per tal d'augmentar la seva TRL o SRL. 
 
 Les actuacions han d'estar orientades a accions per guanyar visibilitat com a grup, desenvolupar projectes per apropar el coneixement del medi marí a la societat, productes finalistes amb administracions i/o empreses, etc. basat sobre les dades que els grups obtenen i produeixen. Tot i que es pressuposa que gran part de les vostres activitats generen dades georeferenciades en el medi marí, també es consideraran altres tipus de dades que no tinguin aquestes característiques sempre i quan tinguin relació amb el medi marí i l'estratègia marina catalana.
 
