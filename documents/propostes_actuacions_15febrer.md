@@ -7,7 +7,7 @@ Les actuacions han d'estar orientades a accions per guanyar visibilitat com a gr
 
 ## Com es presenta un projecte?
 
-Simplement omplint aquest formulari: https://forms.gle/p1H4rDhp52KoLN2bA. Per guiarte pots fer servir aquests dos exemples: [proposta visualitzador](proposta_visualitzador.pdf), [proposta dades](proposta_dades.pdf).
+Simplement omplint aquest formulari: https://forms.gle/p1H4rDhp52KoLN2bA. Alternativament, podeu fer servir el [formulari en format .docx](https://github.com/BlueNetCatAccio4/info/blob/main/documents/PropostesActuacions_BlueNetCat.docx?raw=true). Per guiar-vos podeu fer servir aquests dos exemples: [proposta visualitzador](proposta_visualitzador.pdf), [proposta dades](proposta_dades.pdf).
 
 ## Qui pot enviar propostes?
 Qualsevol grup/membre associat a la xarxa.
