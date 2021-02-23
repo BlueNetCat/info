@@ -15,17 +15,20 @@ Es va obrir [un procés per enviar propostes a través d'un formulari](propostes
 - Objectiu: Proporcionar una eina per conèixer l'estat de la pesca a Catalunya i poder-la gestionar.
 - Necessita: Possibilitat de filtrar les dades segons diferents criteris (data o any, zona, port, modalitat de pesca, espècie, etc.), mostrar gràfiques, mostrar mapes (capes), descarregar dades.
 - Dades pròpies: Dades del mostreig pesquer a la costa catalana.
+- Interessats: Administració, sector pesquer, comunitat científica, públic en general.
 
 ### OBSEA data
 - Objectiu: divulgació de l'estació, fer les dades disponibles al públic en general.
 - Necessita: que les dades històriques siguin accessibles per tothom i que es puguin fer servir en un visualitzador.
 - Dades pròpies: 3 tipus: series temporals de variables físiques, imatges submarines i underwater sound (csv, png, jpg, gif, video, audio). El tamany de dades és més gran d'1 TB.
+- Interessats: Públic en general, cofradies de pescadors, comunitat científica marina, pesca recreativa, practicants d'activitats nàutiques
 
 
 ### CLIMACAT
 - Objectiu: representar els paràmetres climatològics més representatius del Mar Català al llarg de les estacions annuals.
 - Necessita: organitzar les dades en un format estàndard, que les dades siguin accessibles per tothom., posar les dades en una base de dades, que es puguin fer servir en un visualitzador, visualitzar les dades, definir protocols comuns per a les dades.
 - Dades pròpies: Dades històriques d'interés climàtic recopilades pels diferents grups de la xarxa marítima. Dades in-situ (obtingudes durant campanyes, sortides de camp, seguiments, ciència ciutadana i instruments automàtics ancorats i derivants) i remotes (radars costaners, telesensors i plataformes en satèl.lits). Tipus: geoJSON, KML o KMZ, xlsl (Excel), csv, netCDF, GIS. Més gran d'1 TB.
+- Interessats: Científics, Centres operacionals de meteorologia o climatologia, gestors del medi ambient, empreses de generació d'energies renovables, enginyeries marítimes, gestió d'infraestructures costaneres, transport marítim, cofradies de pesca, centres d'ensenyament i administració.
 
 ### MARCAT
 Aquesta proposta és confidencial.
