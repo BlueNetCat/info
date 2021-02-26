@@ -1,6 +1,6 @@
 ![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/logos.png)
 # Resultats propostes del 15 de Febrer 2021
-Es va obrir [un procés per enviar propostes a través d'un formulari](propostes_actuacions_15febrer.md) per a que els grups de la Xarxa enviessin propostes per dinamitzar i valoritzar les seves dades. El 15 de Febrer es van recollir les propostes rebudes, que estan resumides aquí. En aquest document s'expliquen les propostes i es justifica el procés de selecció i l'ordre d'execució. La informació de les propostes està resumida per simplificar el document. En cas de voler tenir tota la informació, poseu-vos en contacte amb gllorach (at) fbg.ub.edu.
+Es va obrir [un procés per enviar propostes a través d'un formulari](propostes_actuacions_15febrer.md) per a que els grups de la Xarxa enviessin propostes per dinamitzar i valoritzar les seves dades. El 15 de Febrer es van recollir les propostes rebudes. En aquest document s'expliquen les propostes, el procés de selecció i l'ordre d'execució. La informació aquí present està resumida per simplificar la presentació, en cas de voler tenir tota la informació, poseu-vos en contacte amb gllorach (at) fbg.ub.edu.
 
 ## Propostes rebudes
 | Acrònim        | Títol                       | Grup de recerca | Responsable      | 
