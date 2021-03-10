@@ -21,12 +21,11 @@ Es va obrir [un procés per enviar propostes a través d'un formulari](propostes
 - Objectiu: divulgació de l'estació, fer les dades disponibles al públic en general.
 - Necessita: que les dades històriques siguin accessibles per tothom i que es puguin fer servir en un visualitzador.
 - Dades pròpies: 3 tipus: series temporals de variables físiques, imatges submarines i underwater sound (csv, png, jpg, gif, video, audio). El tamany de dades és més gran d'1 TB.
-- Interessats: Públic en general, cofradies de pescadors, comunitat científica marina, pesca recreativa, practicants d'activitats nàutiques
-
+- Interessats: Públic en general, confraries de pescadors, comunitat científica marina, pesca recreativa, practicants d'activitats nàutiques
 
 ### CLIMACAT
 - Objectiu: representar els paràmetres climatològics més representatius del Mar Català al llarg de les estacions annuals.
-- Necessita: organitzar les dades en un format estàndard, que les dades siguin accessibles per tothom., posar les dades en una base de dades, que es puguin fer servir en un visualitzador, visualitzar les dades, definir protocols comuns per a les dades.
+- Necessita: organitzar les dades en un format estàndard, que les dades siguin accessibles per tothom, posar les dades en una base de dades, que es puguin fer servir en un visualitzador, visualitzar les dades, definir protocols comuns per a les dades.
 - Dades pròpies: Dades històriques d'interés climàtic recopilades pels diferents grups de la xarxa marítima. Dades in-situ (obtingudes durant campanyes, sortides de camp, seguiments, ciència ciutadana i instruments automàtics ancorats i derivants) i remotes (radars costaners, telesensors i plataformes en satèl.lits). Tipus: geoJSON, KML o KMZ, xlsl (Excel), csv, netCDF, GIS. Més gran d'1 TB.
 - Interessats: Científics, Centres operacionals de meteorologia o climatologia, gestors del medi ambient, empreses de generació d'energies renovables, enginyeries marítimes, gestió d'infraestructures costaneres, transport marítim, cofradies de pesca, centres d'ensenyament i administració.
 
@@ -44,7 +43,7 @@ Els criteris de selecció estan definits en la secció ["Com es seleccionen els 
 | MARCAT         | &#x1F535; | &#x1F535; &#x1F535;  |  &#x1F535; | &#x1F535; |   &#x1F535; | &#x1F535; | |
 
 ## Ordre d'execució de les propostes i actuacions
-La primera proposta que es farà serà VISAP. El visualitzador està basat en dades són pròpies que encara no s'han distribuït / publicat. Varis grup del CSIC estàn involucrats i el visualitzador forma part d'un projecte (ICATMAR). La segona proposta que es farà serà donar suport a la plataforma OBSEA per a que es puguin fer peticions a la BBDD de forma automàtica des la seva web. La tercera proposta depèn més aviat de dades d'agències com Puertos del Estado i SOCIB, tot i que les dades pròpies poden donar un valor afegit respecte altres visualitzadors. La quarta proposta és confidencial. En la cinquena proposta s'inclouran dades climatològiques a les dades de pesca, per poder relacionar l'estat del mar amb la pesca. Aquesta última actuació es beneficiarà dels serveis de la proposta CLIMACAT. L'ordre actual d'execució és aquest:
+La primera proposta que es farà serà VISAP. El visualitzador està basat en dades pròpies que encara no s'han distribuït/publicat. Diversos grup del CSIC estàn involucrats i el visualitzador forma part d'un projecte vigent (ICATMAR). La segona proposta que es farà serà donar suport a la plataforma OBSEA per a que es puguin fer peticions a la BBDD de forma automàtica des la seva web. La tercera proposta depèn més aviat de dades d'agències com Puertos del Estado i SOCIB, tot i que les dades pròpies poden donar un valor afegit respecte altres visualitzadors. La quarta proposta és confidencial. En la cinquena proposta s'inclouran dades climatològiques a les dades de pesca, per poder relacionar l'estat del mar amb la pesca. Aquesta última actuació es beneficiarà dels serveis de la proposta CLIMACAT. L'ordre actual d'execució és aquest:
 
 1. VISAP (fase 1, només dades de pesca). Actuació: es crearà un visualitzador de les dades de pesca. Aquest visualitzador rebrà les dades d'un web service. Es donarà suport a la creació d'aquest web service al personal tècnic de la proposta. 
 
