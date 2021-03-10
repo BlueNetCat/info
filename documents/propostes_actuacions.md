@@ -1,19 +1,19 @@
 ![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/logos.png)
 # Propostes d'actuacions en el marc de l'Eix de Dades de BlueNetCat
 
-S'obre un procés per presentar activitats en el marc de l'[Eix de valoració de les dades marítimes](https://github.com/BlueNetCatAccio4/info). La seva finalitat és ajudar als grups de recerca que vulguin capitalitzar les seves dades per tal d'augmentar la seva TRL o SRL. 
+S'obre un procés per presentar activitats en el marc de l'[Eix de valoració de les dades marítimes](https://github.com/BlueNetCatAccio4/info). La seva finalitat és ajudar als grups de recerca que vulguin capitalitzar les seves dades per tal d'augmentar la seva TRL o SRL.
 
 Les actuacions han d'estar orientades a accions per guanyar visibilitat com a grup, desenvolupar projectes per apropar el coneixement del medi marí a la societat, productes finalistes amb administracions i/o empreses, etc. basat sobre les dades que els grups obtenen i produeixen. Tot i que es pressuposa que gran part de les vostres activitats generen dades georeferenciades en el medi marí, també es consideraran altres tipus de dades que no tinguin aquestes característiques sempre i quan tinguin relació amb el medi marí i l'estratègia marina catalana.
 
 ## Com es presenta un projecte?
 
-Simplement omplint aquest formulari: https://forms.gle/p1H4rDhp52KoLN2bA. Alternativament, podeu fer servir el [formulari en format .docx](https://github.com/BlueNetCatAccio4/info/blob/main/documents/PropostesActuacions_BlueNetCat.docx?raw=true). Per guiar-vos podeu fer servir aquests dos exemples: [proposta visualitzador](proposta_visualitzador.pdf), [proposta dades](proposta_dades.pdf).
+Simplement omplint aquest formulari: https://forms.gle/p1H4rDhp52KoLN2bA. Alternativament, podeu fer servir el [formulari en format .docx](https://github.com/BlueNetCatAccio4/info/blob/main/documents/PropostesActuacions_BlueNetCat.docx?raw=true). Per guiar-vos podeu fer servir els exemples de [la primera ronda](resolucio_actuacions_15_febrer.md) del 15 de Febrer de 2021.
 
 ## Qui pot enviar propostes?
 Qualsevol grup/membre associat a la xarxa.
 
 ## Quina data límit hi ha?
-En principi es podran enviar propostes fins que acabi la xarxa. El <strong>15 de Febrer de 2021</strong> es farà una primera selecció de les propostes rebudes fins a aquesta data. A mesura que es vagin finalitzant els projectes seleccionats, noves propostes rebudes seran avaluades periòdicament.
+En principi es podran enviar propostes fins que acabi la xarxa. El <strong>15 de Setembre de 2021</strong> es farà una segona selecció de les propostes rebudes fins a aquesta data. A mesura que es vagin finalitzant els projectes seleccionats, noves propostes rebudes seran avaluades periòdicament.
 
 ## Quina confidencialitat s'establirà?
 Sota demanda, les propostes seran tractades de forma confidencial i si no es duen a terme la informació s'esborrarà.
