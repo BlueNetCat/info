@@ -10,7 +10,7 @@ Es va fer una pluja d'idees per veure quin tipus de productes són interessants 
 Es poden enviar les propostes d'actuacions de l'acció 4 "Valorització de les dades marítimes". Els membres de la Xarxa enviaran les seves propostes, les quals seran evaluades i priotitzades segons uns barems especificats en un document. En aquest document s'explica com accedir i participar a l'acció 4. El document es troba aquí: [Instruccions per enviar actuacions](/documents/propostes_actuacions_15febrer.md).
 
 ### Resultats 15 de Febrer 2021
-Aquí podeu trobar [el llistat de les propostes rebudes](documents/resolucio_actuacions_15_febrer.md) el 15 de Febrer. Les propostes s'han ordenat per prioritat seguint els varems establerts a les instruccions.
+Aquí podeu trobar [el llistat de les propostes rebudes](documents/resolucio_actuacions_15_febrer.md) el 15 de Febrer. Les propostes s'han ordenat per prioritat seguint els varems establerts a les instruccions. Recordem que en qualsevol moment podeu enviar propostes seguint les instruccions de l'apartat anterior (Actuacions).
 
 ## Projectes en desenvolupament
 Per veure els projectes en desenvolupament, accediu aquí: https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io
