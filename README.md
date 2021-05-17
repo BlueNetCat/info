@@ -14,3 +14,6 @@ Aquí podeu trobar [el llistat de les propostes rebudes](documents/resolucio_act
 
 ## Projectes en desenvolupament
 Per veure els projectes en desenvolupament, accediu aquí: https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io
+
+### Finançament
+Aquest projecte ha estat cofinançat per la Unió Europea a través del Fons Europeu de Desenvolupament Regional (FEDER) i per la Generalitat de Catalunya.
