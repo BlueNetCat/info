@@ -33,7 +33,7 @@ Es va obrir [un procés per enviar propostes a través d'un formulari](propostes
 Aquesta proposta és confidencial.
 
 ## Criteris de selecció
-Els criteris de selecció estan definits en la secció ["Com es seleccionen els projectes?"](propostes_actuacions_15febrer.md#com-es-seleccionen-els-projectes) del document on s'explica com enviar propostes. En aquest apartat s'han donat punts a cada proposta, segons la informació que hem rebut. En cas de voler una explicació més extensa, podeu posar-vos en contacte amb gllorach (at) fbg.ub.edu. 
+Els criteris de selecció estan definits en la secció ["Com es seleccionen els projectes?"](propostes_actuacions.md#com-es-seleccionen-els-projectes) del document on s'explica com enviar propostes. En aquest apartat s'han donat punts a cada proposta, segons la informació que hem rebut. En cas de voler una explicació més extensa, podeu posar-vos en contacte amb gllorach (at) fbg.ub.edu. 
 
 | Acrònim        | TRL i SRL  | Sinergies i col·laboració | Basats en explotació de dades pròpies | Dades obertes |  Accessibilitat i maduresa de dades | Ajuda tècnica | Associat a un projecte o contracte |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
