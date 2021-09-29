@@ -2,9 +2,29 @@
 # Estat de les actuacions (15 de Setembre 2021)
 El passat 15 de Febrer es van rebre 4 propostes. S'ha parlat amb els grups involucrats en les 4 propostes i s'ha pogut obtenir una informació més detallada sobre cada una. 
 
-Segons l'ordre definit a la [resolució del 15 de Febrer](resolucio_actuacions_15_febrer.md), es va començar a treballar amb la proposta **VISAP**. La primera fase es va completar al Maig de 2021. Es pot veure el visualitzador en [aquest enllaç](https://bluenetcataccio4.github.io/VISAP/). 
+Segons l'ordre definit a la [resolució del 15 de Febrer](resolucio_actuacions_15_febrer.md), es va començar a treballar amb la proposta **VISAP**. La primera fase es va completar al Maig de 2021. Es pot veure el visualitzador en [aquest enllaç](https://bluenetcataccio4.github.io/VISAP/).
+
+<p align="center" width="100%">
+  <a href="https://bluenetcataccio4.github.io/VISAP/">
+  <img width="256" height="256" src="https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/raw/main/img/VISAP.png">
+  </a>
+  <p align="center" width="100%">
+    <sub>Capture d'imatge del visualitzador VISAP</sub>
+  </p>
+</p>
 
 La següent proposta que es va començar a treballar va ser **OBSEA Data**. Es van provar certes tecnologies per visualitzar i servir les dades a la web. Malhauradament, degut a la falta de temps, no es va poder arribar a una solució final i aquest projecte s'ha programat per més endavant. En [aquest enllaç](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/tree/main/OBSEA) hi ha una descripció del que s'ha fet en el projecte fins ara.
+
+Després es va començar a treballar amb el **geoportal de la Xarxa**. El geoportal té l'objectiu de referenciar les dades que generen els membres de la Xarxa i a la vegada mostrar quin tipus de dades es recullen al Mar Català. El geoportal és una aplicació web que s'anirà treballant al llarg del projecte. En [aquest enllaç](https://bluenetcataccio4.github.io/geoportal/) podeu veure el geoportal, encara en fase de desenvolupament.
+
+<p align="center" width="100%">
+  <a href="https://bluenetcataccio4.github.io/geoportal/">
+  <img width="256" height="256" src="https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/raw/main/img/geoportal.png">
+  </a>
+  <p align="center" width="100%">
+    <sub>Capture d'imatge del geoportal</sub>
+  </p>
+</p>
 
 Actualment s'està treballant en les propostes **MARCAT** i **CLIMACAT**. Les dues necessiten un front-end semblant, el qual s'està desenvolupant d'una manera modular per tal de que pugui servir a aquestes dues aplicacions, per VISAP i segurament per futures altres aplicacions.
 
