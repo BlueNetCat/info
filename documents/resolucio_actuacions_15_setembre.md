@@ -1,5 +1,5 @@
 ![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/logos.png)
-# Estat de les actuacions
+# Estat de les actuacions (15 de Setembre 2021)
 El passat 15 de Febrer es van rebre 4 propostes. S'ha parlat amb els grups involucrats en les 4 propostes i s'ha pogut obtenir una informació més detallada sobre cada una. 
 
 Segons l'ordre definit a la [resolució del 15 de Febrer](resolucio_actuacions_15_febrer.md), es va començar a treballar amb la proposta **VISAP**. La primera fase es va completar al Maig de 2021. Es pot veure el visualitzador en [aquest enllaç](https://bluenetcataccio4.github.io/VISAP/). 
