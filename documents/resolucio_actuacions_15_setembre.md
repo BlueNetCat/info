@@ -1,9 +1,8 @@
 ![Funding](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/blob/main/img/logos.png)
-# [Esborrany] 
 # Estat de les actuacions
 El passat 15 de Febrer es van rebre 4 propostes. S'ha parlat amb els grups involucrats en les 4 propostes i s'ha pogut obtenir una informació més detallada sobre cada una. 
 
-Segons l'ordre proposat a la [resolució del 15 de Febrer](resolucio_actuacions_15_febrer.md), es va començar a treballar amb la proposta **VISAP**. La primera fase es va completar al Maig de 2021. Es pot veure el visualitzador en [aquest enllaç](https://bluenetcataccio4.github.io/VISAP/). 
+Segons l'ordre definit a la [resolució del 15 de Febrer](resolucio_actuacions_15_febrer.md), es va començar a treballar amb la proposta **VISAP**. La primera fase es va completar al Maig de 2021. Es pot veure el visualitzador en [aquest enllaç](https://bluenetcataccio4.github.io/VISAP/). 
 
 La següent proposta que es va començar a treballar va ser **OBSEA Data**. Es van provar certes tecnologies per visualitzar i servir les dades a la web. Malhauradament, degut a la falta de temps, no es va poder arribar a una solució final i aquest projecte s'ha programat per més endavant. En [aquest enllaç](https://github.com/BlueNetCatAccio4/BlueNetCatAccio4.github.io/tree/main/OBSEA) hi ha una descripció del que s'ha fet en el projecte fins ara.
 
@@ -27,7 +26,7 @@ La descripció de les propostes rebudes el 15 de Febrer es troba en [aquest docu
 - Objectiu: Visualitzar la qualitat ambiental de la zona costanera. Es podrien afegir altres indicadors de qualitat.
 - Necessita: Veure amb uns indicadors la qualitat de l'aigua, amb un codi de colors. Poder veure la evolució temporal. Clicar als punts mostreig i veure les dades recollides. Comparar entre anys.
 - Dades pròpies: Les dades són de l'ICM i de l'ACA. Estan emmagatzemades en xcels. Actualtment, les dades històriques són obertes i accessibles sota demanda. Les dades es recullen com a màxim de manera mensual.
-- Interessats: Administració (e.g., ACA, Ministeri Espanyol, Ajuntaments), usuaris de platges interessats en temes medioambientals, ONGs, associacions ambientalistes.
+- Interessats: Administracions locals, autonòmiques i estatals, usuaris de platges interessats en temes medioambientals, ONGs, associacions ambientalistes.
 
 ### GeneticaMED
 - Objectius: Visualitzar connectivitat entre poblacions, diversitat genètica i adaptació en el medi segons genètica (identificar gens que permeten l'adaptació al medi) dels punts mostrejats. Es poden entendre alguns fenòmens com les barreres oceanogràfiques i canvis al medi mari (canvis en la salinitat, temperatura que afecten les poblacions).
